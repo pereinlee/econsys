@@ -1,2 +1,2 @@
 # econsys
-branch x86
+branch econsys x86
